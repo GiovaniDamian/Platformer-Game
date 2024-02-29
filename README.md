@@ -1,6 +1,8 @@
 # Platformer-Game
 A project to practice Javascript.
 
-<img height="360em" src="https://github.com/GiovaniDamian/Shopping-Cart/assets/60575219/08c0e911-77e9-4a1f-8533-cde40a1f46ba"/></br>
-<img height="360em" src="https://github.com/GiovaniDamian/Shopping-Cart/assets/60575219/e4c20c9e-5d6d-45a9-bd1a-9fb4093ee5bc"/></br>
-<img height="360em" src="https://github.com/GiovaniDamian/Shopping-Cart/assets/60575219/98939ea6-58ff-4d7b-a44f-d1f79fb116f5"/>
+<img height="360em" src="https://github.com/GiovaniDamian/Platformer-Game/assets/60575219/abeaa8ec-e427-44c1-865a-2326145f2548"/></br>
+<img height="360em" src="https://github.com/GiovaniDamian/Platformer-Game/assets/60575219/199ce279-d7b0-4780-be96-4df14e6414aa"/></br>
+<img height="360em" src="https://github.com/GiovaniDamian/Platformer-Game/assets/60575219/9f33cbd2-98c2-4fb5-ba45-459dec9beab8"/></br>
+<img height="360em" src="https://github.com/GiovaniDamian/Platformer-Game/assets/60575219/2f3ff4a0-023a-416f-9a47-e120d646578d"/>
+
